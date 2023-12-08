@@ -389,9 +389,9 @@
   }
 
   .content__text-column {
-    display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 20px;
+    row-gap: 0;
   }
 
   .content__title {
