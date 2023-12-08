@@ -16,12 +16,6 @@
   --content-title-color: #ff0070;
   --shadow-color: #ff0070;
   --line-color: rgba(255 0 112 / 0.4);
-  --page-font-size: 18px;
-  --small-padding: 10px;
-  --large-padding: 20px;
-  --main-line-size: 1.3;
-  --title-font-weight: 700;
-  --main-font-weight: 400;
 }
 
 /* Остальные стили */
@@ -41,12 +35,6 @@
   --content-title-color: #ff0070;
   --shadow-color: #ff0070;
   --line-color: rgba(255 0 112 / 0.4);
-  --page-font-size: 18px;
-  --small-padding: 10px;
-  --large-padding: 20px;
-  --main-line-size: 1.3;
-  --title-font-weight: 700;
-  --main-font-weight: 400;
 }
 
 .theme_dark .header__record-element {

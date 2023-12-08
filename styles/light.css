@@ -16,12 +16,6 @@
   --content-title-color: #353430;
   --shadow-color: #ff8dcb;
   --line-color: rgba(50 49 45 / 0.4);
-  --page-font-size: 18px;
-  --small-padding: 10px;
-  --large-padding: 20px;
-  --main-line-size: 1.3;
-  --title-font-weight: 700;
-  --main-font-weight: 400;
 }
 
 /* Остальные стили */
@@ -41,12 +35,6 @@
   --content-title-color: #353430;
   --shadow-color: #ff8dcb;
   --line-color: rgba(50 49 45 / 0.4);
-  --page-font-size: 18px;
-  --small-padding: 10px;
-  --large-padding: 20px;
-  --main-line-size: 1.3;
-  --title-font-weight: 700;
-  --main-font-weight: 400;
 }
 
 .theme_light .header__record-element {
@@ -72,12 +60,6 @@
     --content-title-color: #353430;
     --shadow-color: #ff8dcb;
     --line-color: rgba(50 49 45 / 0.4);
-    --page-font-size: 18px;
-    --small-padding: 10px;
-    --large-padding: 20px;
-    --main-line-size: 1.3;
-    --title-font-weight: 700;
-    --main-font-weight: 400;
   }
 }
 
