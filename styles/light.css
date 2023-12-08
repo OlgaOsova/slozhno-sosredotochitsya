@@ -7,7 +7,6 @@
 :root.theme_light {
   /* Переменные светлой темы */
   --bg-image: url(../images/cover-image-light.png);
-  --main-font: "IBM Plex mono", Courier, monospace;
   --bg-color: #fff1f7;
   --text-color: #353430;
   --title-color: #ffc2e6;
@@ -33,7 +32,6 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url(../images/cover-image-light.png);
-  --main-font: "IBM Plex mono", Courier, monospace;
   --bg-color: #fff1f7;
   --text-color: #353430;
   --title-color: #ffc2e6;
@@ -65,7 +63,6 @@
   :root {
     /* Дублируем переменные светлой темы */
     --bg-image: url(../images/cover-image-light.png);
-    --main-font: "IBM Plex mono", Courier, monospace;
     --bg-color: #fff1f7;
     --text-color: #353430;
     --title-color: #ffc2e6;

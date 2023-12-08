@@ -46,6 +46,7 @@
 }
 
 .header__record-element {
+  text-transform: uppercase;
   font-size: 0;
 }
 

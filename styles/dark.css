@@ -7,7 +7,6 @@
 :root.theme_dark {
   /* Дублируем переменные для тёмной темы */
   --bg-image: url(../images/cover-image-dark.png);
-  --main-font: "IBM Plex mono", Courier, monospace;
   --bg-color: #000028;
   --text-color: #f1b2ce;
   --title-color: #db00ff;
@@ -33,7 +32,6 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url(../images/cover-image-dark.png);
-  --main-font: "IBM Plex mono", Courier, monospace;
   --bg-color: #000028;
   --text-color: #f1b2ce;
   --title-color: #db00ff;

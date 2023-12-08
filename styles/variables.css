@@ -6,7 +6,7 @@
 /* Переменные тёмной темы */
 :root {
   --bg-image: url(../images/cover-image-dark.png);
-  --main-font: "IBM Plex mono", Courier, monospace;
+  --main-font: 'IBM Plex mono', Courier, monospace;
   --bg-color: #000028;
   --text-color: #f1b2ce;
   --title-color: #db00ff;
